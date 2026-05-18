@@ -1,4 +1,4 @@
-#övning 2 - MD5 Hash Checker with Python and Hashcat
+MD5 Hash Checker with Python and Hashcat
 
 
 
