@@ -24,7 +24,7 @@ of any length.
 
 ```bash
 git clone https://github.com/HKSEC/-vning-2-.git
-cd -vning-2-
+cd o2
 chmod +x md5-hashcat.sh
 ```
 
