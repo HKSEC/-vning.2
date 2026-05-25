@@ -2,7 +2,7 @@ MD5 Hash Checker with Python and Hashcat
 
 
 
-##Description
+## Description
 
 In this assignment I worked with hashing and password genarator.
 When we type our passwords it dosent get stored in raw text, it gets turned it a hash.
@@ -34,6 +34,7 @@ chmod +x md5-hashcat.sh
 python3 md5-hasher.py
 ./md5-hashcat.sh mina_hashar.txt ?d?d?d?d?d
 ```
+
 
 ## Result
 All 10 hashes cracked successfully
