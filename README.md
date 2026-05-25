@@ -2,7 +2,7 @@ MD5 Hash Checker with Python and Hashcat
 
 
 
-#Description
+##Description
 
 In this assignment I worked with hashing and password genarator.
 When we type our passwords it dosent get stored in raw text, it gets turned it a hash.
@@ -14,7 +14,7 @@ The assignmenat goal was to generate hash-values and test rainbow  tables and us
 MD5-hashs(Message Disesget Method 5 is cryptographic hash algorithm that genrates a 128-bit digest from a string
 of any length.
 
-#Repo
+##Files
 
 - md5-hasher.py (The python code to generate hashes and passwords)
 - md5-hashcat.sh (Bash script that run hashcat to crack MD5 based hashes with mask attack)
@@ -24,7 +24,7 @@ of any length.
 
 ```bash
 git clone https://github.com/HKSEC/-vning-2-.git
-cd o2
+cd -vning-2-
 chmod +x md5-hashcat.sh
 ```
 
